@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.ce8de499.js",
-    "static/js/453.c615e2b0.chunk.js": "/static/js/453.c615e2b0.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.ce8de499.js.map": "/static/js/main.ce8de499.js.map",
-    "453.c615e2b0.chunk.js.map": "/static/js/453.c615e2b0.chunk.js.map"
+    "main.css": "/pigminiapp/static/css/main.e6c13ad2.css",
+    "main.js": "/pigminiapp/static/js/main.a88127af.js",
+    "static/js/453.c615e2b0.chunk.js": "/pigminiapp/static/js/453.c615e2b0.chunk.js",
+    "index.html": "/pigminiapp/index.html",
+    "main.e6c13ad2.css.map": "/pigminiapp/static/css/main.e6c13ad2.css.map",
+    "main.a88127af.js.map": "/pigminiapp/static/js/main.a88127af.js.map",
+    "453.c615e2b0.chunk.js.map": "/pigminiapp/static/js/453.c615e2b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ce8de499.js"
+    "static/js/main.a88127af.js"
   ]
 }
