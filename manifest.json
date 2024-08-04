@@ -1,8 +1,20 @@
 {
-  "manifest_version": "1.0",
-  "id": "pigminiapp",
-  "name": "Pig Mini App",
-  "description": "App for selling TG domains using TON Connect",
-  "url": "https://liomlong.github.io/pigminiapp",
-  "icon_url": "https://liomlong.github.io/pigminiapp/icon.png"
+  "short_name": "PigMiniApp",
+  "name": "Pig Mini App - Domain Sales",
+  "icons": [
+    {
+      "src": "/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
