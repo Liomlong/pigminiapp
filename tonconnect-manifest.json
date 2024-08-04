@@ -1,8 +1,6 @@
 {
   "name": "Pig Mini App",
-  "description": "Domain Sales App using TON Connect",
+  "description": "A mini app to buy and sell domains",
   "url": "https://liomlong.github.io/pigminiapp/",
-  "icons": ["https://liomlong.github.io/pigminiapp/icon.png"],
-  "bridge": "https://bridge.tonapi.io/bridge",
-  "callbackUrl": "https://liomlong.github.io/pigminiapp/callback"
+  "iconUrl": "https://liomlong.github.io/pigminiapp/icon.png"
 }
