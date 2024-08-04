@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/pigminiapp/static/css/main.8a14399c.css",
-    "main.js": "/pigminiapp/static/js/main.37b98133.js",
+    "main.css": "/pigminiapp/static/css/main.f9aa73e3.css",
+    "main.js": "/pigminiapp/static/js/main.e026cfdf.js",
+    "static/js/453.4e4e8596.chunk.js": "/pigminiapp/static/js/453.4e4e8596.chunk.js",
     "index.html": "/pigminiapp/index.html",
-    "main.8a14399c.css.map": "/pigminiapp/static/css/main.8a14399c.css.map",
-    "main.37b98133.js.map": "/pigminiapp/static/js/main.37b98133.js.map"
+    "main.f9aa73e3.css.map": "/pigminiapp/static/css/main.f9aa73e3.css.map",
+    "main.e026cfdf.js.map": "/pigminiapp/static/js/main.e026cfdf.js.map",
+    "453.4e4e8596.chunk.js.map": "/pigminiapp/static/js/453.4e4e8596.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a14399c.css",
-    "static/js/main.37b98133.js"
+    "static/css/main.f9aa73e3.css",
+    "static/js/main.e026cfdf.js"
   ]
 }
