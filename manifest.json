@@ -1,6 +1,6 @@
 {
-  "short_name": "Pig Mini App",
-  "name": "Pig Mini App - Domain Sales",
+  "name": "Pig Mini App",
+  "short_name": "PigMiniApp",
   "icons": [
     {
       "src": "favicon.ico",
